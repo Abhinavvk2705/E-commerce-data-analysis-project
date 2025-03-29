@@ -6,20 +6,20 @@ This project analyzes e-commerce sales data to extract key insights regarding sa
 
 🚀 Features
 
-✅ Date Column Processing – Convert and manipulate date-based data.
+1. Date Column Processing – Convert and manipulate date-based data.
 
-✅ Monthly Sales Analysis – Track revenue trends over time.
+2. Monthly Sales Analysis – Track revenue trends over time.
 
-✅ Customer Purchase Patterns – Identify peak purchasing periods.
+3. Customer Purchase Patterns – Identify peak purchasing periods.
 
-✅ Revenue Optimization – Analyze factors affecting sales performance.
+4. Revenue Optimization – Analyze factors affecting sales performance.
 
-🛠️ Technologies Used
+🛠 Technologies Used
 
-📌 Python – Data processing and analysis.
+Python – Data processing and analysis.
 
-📌 Jupyter Notebook – Interactive data visualization.
+Jupyter Notebook – Interactive data visualization.
 
-📌 Pandas & NumPy – Data manipulation and statistical calculations.
+Pandas & NumPy – Data manipulation and statistical calculations.
 
-📌 Matplotlib – Data visualization and trend analysis.
+Matplotlib  – Data visualization and trend analysis.
